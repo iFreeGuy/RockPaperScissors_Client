@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MGC_RockPaperScissors.APIMessage">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAgAAAAAAAAAAAQBAAAAAA=</HashCode>
+      <FileName>APIMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.ParamLogin" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgA=</HashCode>
+      <FileName>APIParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.ParamSessionKeyOnly" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>APIParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.APIReplayPlayGame" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAA=</HashCode>
+      <FileName>APIReply.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.FormGame" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAJAAACiAABAoAECgAIACaBAEEAAAgACAAEMABgQ=</HashCode>
+      <FileName>FormGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.FormMain" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JEgAAAAAoCAAABAAAACAAAAKAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.GameAPI" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.Logger" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAgBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.LoginAPI" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>LoginAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.MSC_Config" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MSC_Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.Program" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.RestAPIResult" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>RestAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.RestAPI" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RestAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.Session" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAACBAAAABA=</HashCode>
+      <FileName>Session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.TestJSON" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgA=</HashCode>
+      <FileName>TestAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.TestAPI" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAgAAAAAABAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>TestAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.WSMessage">
+    <Position X="2.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.WSDataLogin" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.WSDataError" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.WSDataPlayerHand" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.WSDataBattleStart" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.WSDataBattlePlayResult" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABCAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.WSDataGamePlayResult" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACABAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.WSDefine" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.Properties.Resources" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGC_RockPaperScissors.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MGC_RockPaperScissors.APIMessageID" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAIBAAAAAgAAAAAQAAAAAAA=</HashCode>
+      <FileName>APIMessage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MGC_RockPaperScissors.APIResultCode" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAgBAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>APIMessage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MGC_RockPaperScissors.SessionState" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAABAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Session.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MGC_RockPaperScissors.WSMessageID" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAgAAAABEgAAAEABAAAAAAAAAQAQAAAgAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MGC_RockPaperScissors.WSResultCode" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAgAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MGC_RockPaperScissors.PlayerChoice" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MGC_RockPaperScissors.BattlePlayResult" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSMessage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
